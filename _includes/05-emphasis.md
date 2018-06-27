@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Sometimes you need to be __bold__ with markdown, other times you just _want_ to be **assertive**.
